@@ -1,0 +1,17 @@
+
+
+--Install:
+
+This project requires Python 2.7 and the following Python libraries installed:
+
+	NumPy
+	Pandas
+	matplotlib
+	scikit-learn
+	jupyter notebook
+
+-- Running the code: 
+   Make sure that the provided jupyter notebook 'cusine_classification.ipynb'  and data set 'data.json' are in the same directory
+   Launch the notebook with command : Jupyter notebook cusine_classification.ipynb, this will launch the notebook in your browser
+   Goto 'cell' option and select 'run all' option to execute the code
+   For understanding each what each snippet of code does follow the comments at the start of each section 
