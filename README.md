@@ -1,1 +1,2 @@
-# These are the some of the machine learning projects that I worked on 
+# 
+This repository consists of some machine learning projects that I worked on 
